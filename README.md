@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=200&section=header&text=KARTHIK&fontSize=40&fontColor=fbca1f" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Karthik</h1>
 <h3 align="center">Frontend Developer | MERN Stack | DSA</h3>
 
