@@ -49,7 +49,7 @@
 
 
 ## 🧠 Projects
-- 💬 Chat App  
+- 🌐 IPL Website
 - 🌐 Portfolio Website  
 - 📦 CRUD API (MongoDB Atlas)  
 - 🧑‍🎓 Student Management System  
