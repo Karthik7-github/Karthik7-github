@@ -57,7 +57,7 @@
 
 ## 🌍 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/karthik-ponnam-564866295" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   &nbsp;&nbsp;
